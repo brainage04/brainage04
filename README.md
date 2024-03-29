@@ -1,16 +1,15 @@
-### Hi there 👋
-
-<!--
-**brainage04/brainage04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### brainage04's GitHub Profile
+- 🔭 I’m currently working on:
+  - A Ubisoft Game Jam for Australian tertiary education students
+  - A Minecraft Forge 1.8.9 config library (BrainConfig)
+  - Some Minecraft Forge 1.8.9 mods (ToggleSprint/FuckWaterBoard/etc)
+- 🌱 I’m currently learning:
+  - How to use Unity and C#
+  - How to create libraries in Java (for Minecraft)
+- 🤔 I’m looking for help with:
+  - My Minecraft Forge 1.8.9 config library. I have never made a library before and this is going to be a big task.
+- 💬 Ask me about:
+  - Anything Minecraft related (Forge 1.8.9 or Fabric latest version)
+- 📫 How to reach me:
+  - Email: thomasmcmah21@gmail.com
+  - Discord: brainage04
