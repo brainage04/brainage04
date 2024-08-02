@@ -1,13 +1,10 @@
 ### brainage04's GitHub Profile
 - 🔭 I’m currently working on:
-  - A Ubisoft Game Jam for Australian tertiary education students
-  - A Minecraft Forge 1.8.9 config library (BrainConfig)
-  - Some Minecraft Forge 1.8.9 mods (ToggleSprint/FuckWaterBoard/etc)
+  - A Minecraft Fabric 1.21 HUD mod (BrainageHUD)
 - 🌱 I’m currently learning:
-  - How to use Unity and C#
-  - How to create libraries in Java (for Minecraft)
+  - How to better use Unity and C#
 - 🤔 I’m looking for help with:
-  - My Minecraft Forge 1.8.9 config library. I have never made a library before and this is going to be a big task.
+  - Nothing right now.
 - 💬 Ask me about:
   - Anything Minecraft related (Forge 1.8.9 or Fabric latest version)
 - 📫 How to reach me:
