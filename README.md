@@ -1,6 +1,7 @@
 ### brainage04's GitHub Profile
 - 🔭 I’m currently working on:
   - A Minecraft Fabric 1.21 HUD mod (BrainageHUD)
+  - My GitHub Pages website
 - 🌱 I’m currently learning:
   - How to better use Unity and C#
 - 🤔 I’m looking for help with:
@@ -8,5 +9,4 @@
 - 💬 Ask me about:
   - Anything Minecraft related (Forge 1.8.9 or Fabric latest version)
 - 📫 How to reach me:
-  - Email: thomasmcmah21@gmail.com
   - Discord: brainage04
