@@ -1,11 +1,9 @@
 ### brainage04's GitHub Profile
 - 🔭 I’m currently working on:
-  - A Minecraft Fabric 1.21 HUD mod (BrainageHUD)
+  - Various Minecraft Fabric mods (mainly BrainageHUD and HudRendererLib)
   - My GitHub Pages website
-- 🌱 I’m currently learning:
-  - How to better use Unity and C#
 - 🤔 I’m looking for help with:
-  - Nothing right now.
+  - How to make my own Minecraft Forge 1.8.9/Fabric latest version config libraries that support Lists/dynamically sized arrays.
 - 💬 Ask me about:
   - Anything Minecraft related (Forge 1.8.9 or Fabric latest version)
 - 📫 How to reach me:
