@@ -4,8 +4,11 @@ I'm a recent graduate from QUT Gardens Point with a Bachelor of Information Tech
 
 I’m currently working on:
   - Various Minecraft Fabric mods:
+    - [BrainageServerUtils](https://github.com/brainage04/BrainageServerUtils)
+    - [BrainageMinigames](https://github.com/brainage04/BrainageMinigames) (going to merge [BrainageUHC](https://github.com/brainage04/BrainageUHC) into this)
     - [ProceduralDungeon](https://github.com/brainage04/ProceduralDungeon)
-  - Creating Forge 1.8.9 equivalents for my Fabric latest version modding templates (see [FabricTemplateClient](https://github.com/brainage04/FabricTemplateClient) and [FabricTemplateServer](https://github.com/brainage04/FabricTemplateServer))
+    - [IceSkates](https://github.com/brainage04/IceSkates)
+    - [FortniteInMinecraft](https://github.com/brainage04/FortniteInMinecraft)
   - Finding a full-time software development job! (If you think I'm what you're looking for, feel free to reach out at [thomasmcmah21@gmail.com](mailto:thomasmcmah21@gmail.com))
 
 I’m looking for help with:
