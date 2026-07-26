@@ -22,11 +22,13 @@ Here's some mods I'm still working on:
 - [BrainageMinigames](https://github.com/brainage04/BrainageMinigames) / [BrainageUHC](https://github.com/brainage04/BrainageUHC) (i need to combine these two into one) - adds a bunch of minigames hosted in completely separate dimensions that I made so that I could play minigames with my friends on my servers without having to switch worlds or make a mess of an existing world
 - [TextureAtlasGenerator](https://github.com/brainage04/TextureAtlasGenerator) - a Fabric 1.21 port of the texture atlas generator from DevUtils. Been smashing my head against a wall with this one for dozens of hours - it may take a while.
 
-I also have a fairly exhaustive [Fabric modding template](https://github.com/brainage04/FabricModdingTemplate):
+I also have a fairly exhaustive [modern Fabric modding template](https://github.com/brainage04/ModernMinecraftModTemplate):
 - Server-only, client-only and server+client splits supported (click `Use this template` and then manually run the init workflow to choose your split)
 - Test and gametest modules for unit tests and GameTest tests respectively (todo - add option to remove in init workflow)
 - Headless client GameTest tests for client-only and server+client splits (todo - add option to remove in init workflow)
 - Automatic GitHub release, Modrinth project creation (if project does not already exist) and Modrinth version creation on tag creation
+
+For Forge 1.8.9 projects, I maintain [LegacyMinecraftModTemplate](https://github.com/brainage04/LegacyMinecraftModTemplate) with Kotlin, Mixin, MoulConfig, and current Gradle tooling.
 
 Here's a list of datapacks I've made:
 - [BrainageGamerules](https://github.com/brainage04/BrainageGamerules) - automatically applies custom gamerules and scoreboard objectives (including some scoreboard objectives that track Diamond Ores Mined without counting Silk Touch) to my new worlds.
